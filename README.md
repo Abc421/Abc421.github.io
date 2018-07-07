@@ -9,15 +9,19 @@ Hohoh Phew!
 
 <p align="center"><a href="https://cssgradient.io">CSS Gradient Generator</a></p>
 
-Hey there PotatoHead!
+
 
 <p align="center">
-  <b>Some Links:</b><br>
+Hey there PotatoHead!
+
+<b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
+  <img src="https://cloud.githubusercontent.com/assets/454813/26127114/3000fe16-3a56-11e7-86e2-feb7d5f1a3ef.png">
 
 Good bye!
+
+</p>
+
